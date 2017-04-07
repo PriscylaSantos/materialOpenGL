@@ -31,7 +31,6 @@ Para mais detalhes
 #### Windows
 
 - [OpenGL no Windows](http://opengl-ms.blogspot.com.br/2012/08/instalar-glut-no-codeblocks.html)
-
 - [Programação com OpenGL/Instalação/Windows](https://pt.wikibooks.org/wiki/Programa%C3%A7%C3%A3o_com_OpenGL/Instala%C3%A7%C3%A3o/Windows)
 
 Imagem do arquivo **Trabalhos/04/bancada.c**
